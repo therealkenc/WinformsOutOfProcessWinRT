@@ -1,0 +1,3 @@
+Trivial re-working of the [Microsoft/DesktopBridgeToUWP-SamplesWinforms/OutOfProcessWinRTComponent](https://github.com/Microsoft/DesktopBridgeToUWP-Samples/tree/master/Samples/WinformsOutOfProcessWinRTComponent) sample using the new (as of August 2017) Windows Application Packaging Project(https://blogs.msdn.microsoft.com/appconsult/2017/08/28/package-a-net-desktop-application-using-the-desktop-bridge-and-visual-studio-preview/)
+
+Requires Visual Studio 2017 15.4.0 Preview 1 and SDK 10.0.16267.0. Relates to discussion in issue [#52](https://github.com/Microsoft/DesktopBridgeToUWP-Samples/issues/52).

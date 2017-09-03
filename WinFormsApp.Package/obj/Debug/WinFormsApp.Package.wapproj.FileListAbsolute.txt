@@ -1,0 +1,7 @@
+C:\Users\there\source\repos\WinformsOutOfProcessWinRTComponent\WinFormsApp.Package\obj\Debug\WinFormsApp.Package.wapprojResolveAssemblyReference.cache
+C:\Users\there\source\repos\WinformsOutOfProcessWinRTComponent\WinFormsApp.Package\obj\Debug\WinFormsApp.Package.wapproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\WinformsOutOfProcessWinRTComponent\WinFormsApp.Package\bin\AnyCPU\Debug\Microsoft.SDKSamples.Kitchen.winmd
+C:\Users\there\source\repos\WinformsOutOfProcessWinRTComponent\WinFormsApp.Package\bin\AnyCPU\Debug\WindowsFormsApp3.exe
+C:\Users\there\source\repos\WinformsOutOfProcessWinRTComponent\WinFormsApp.Package\bin\AnyCPU\Debug\Microsoft.SDKSamples.Kitchen.pdb
+C:\Users\there\source\repos\WinformsOutOfProcessWinRTComponent\WinFormsApp.Package\bin\AnyCPU\Debug\WindowsFormsApp3.pdb
+C:\Users\there\source\repos\WinformsOutOfProcessWinRTComponent\WinFormsApp.Package\bin\AnyCPU\Debug\WindowsFormsApp3.exe.config
