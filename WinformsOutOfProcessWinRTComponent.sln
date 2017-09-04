@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "Windows
 EndProject
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WapProjTemplate1", "WapProjTemplate1\WapProjTemplate1.wapproj", "{C4ECF6FF-D348-4B1D-9F21-D989F366633D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyServer", "MyServer\MyServer.vcxproj", "{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,18 @@ Global
 		{C4ECF6FF-D348-4B1D-9F21-D989F366633D}.Release|x86.ActiveCfg = Release|x86
 		{C4ECF6FF-D348-4B1D-9F21-D989F366633D}.Release|x86.Build.0 = Release|x86
 		{C4ECF6FF-D348-4B1D-9F21-D989F366633D}.Release|x86.Deploy.0 = Release|x86
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Debug|ARM.ActiveCfg = Debug|Win32
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Debug|x64.ActiveCfg = Debug|x64
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Debug|x64.Build.0 = Debug|x64
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Debug|x86.ActiveCfg = Debug|Win32
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Debug|x86.Build.0 = Debug|Win32
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Release|ARM.ActiveCfg = Release|Win32
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Release|x64.ActiveCfg = Release|x64
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Release|x64.Build.0 = Release|x64
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Release|x86.ActiveCfg = Release|Win32
+		{657C2B9E-CAB6-4E53-A4A5-CE0C3A1C8A9F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

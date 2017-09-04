@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Server\WRLOutOfProcessWinRTComponent_server.vcxproj" />
+    <ProjectReference Include="..\MyServer\MyServer.vcxproj" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form1.cs">

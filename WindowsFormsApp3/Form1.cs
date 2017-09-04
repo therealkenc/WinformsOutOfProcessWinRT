@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using Microsoft.SDKSamples.Kitchen;
+using MyServer;
 
 namespace WindowsFormsApp3
 {
@@ -21,9 +22,11 @@ namespace WindowsFormsApp3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Oven oven = new Oven();
-            double volume = oven.Volume;
-            textBox1.Text = String.Format("Volume: {0}", volume);
+            Class1 foo = new Class1();
+            string hello = foo.Hello();
+            //Oven oven = new Oven();
+            //double volume = oven.Volume;
+            textBox1.Text = String.Format("Hello: {0}", hello);
         }
     }
 }
